@@ -1,5 +1,8 @@
-### Hi there 👋
+### 🐒 monke
 
+I make stupid things that probably work badly, for fun.
+
+I'm currently learning JavaScript, Java and Python.
 <!--
 **JesseStorms/JesseStorms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
