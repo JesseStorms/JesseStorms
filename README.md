@@ -1,8 +1,6 @@
-### 🐒 monke
+### wow it's me  
+Student Applied Informatics at UCLeuvenLimburg and currently making stuff that works simultaneously terrible and amazing.
 
-I make stupid things that probably work badly, for fun.
-
-I'm currently learning JavaScript, Java and Python.
 <!--
 **JesseStorms/JesseStorms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
