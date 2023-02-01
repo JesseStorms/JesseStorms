@@ -22,6 +22,7 @@ Terminal (Zsh) (8.2%) ╢███████████
 [Code::Stats](https://codestats.net/users/ThzeTerminator)
 
 *note that at the moment these stats aren't real time, working on that pipeline*
+piss off greg
 <!--
 **JesseStorms/JesseStorms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
