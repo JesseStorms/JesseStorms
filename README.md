@@ -1,5 +1,5 @@
 ### wow it's me  
-Student Applied Informatics at UCLeuvenLimburg and currently making stuff that works simultaneously terrible and amazing.
+i graduated now
 
 #### Code::Stats
 
